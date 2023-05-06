@@ -34,7 +34,7 @@ ul{
 
 /* Header **/
 header{
-    background-color:rgb(80, 77, 77);
+    background-color:rgb(58, 82, 81);
     border-style:solid;
     border-bottom-width: 3px;
     border-bottom-color: brown;
@@ -105,7 +105,7 @@ header a:hover{
 }
 /* Newsletter */
 #newsletter{
-  background-color:rgb(80, 77, 77) ;
+  background-color:rgb(58, 82, 81) ;
   min-height: 70px;
 }
 
